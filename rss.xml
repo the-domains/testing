@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[testing]]></title>
+        <description><![CDATA[testing]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 28 Oct 2015 14:40:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MA Thesis]]></title>
+            <description><![CDATA[<article><h1>MA Thesis</h1><p>I have (de)constructed the theoretical framework of design for spatial behaviour, and proposed new concepts of spatial learning, principles for designing while using the AI in order to support our own cognitive performance. To apply the latter to a concrete case, I have designed a conceptual tangible interface for spatial experience.</p><img src="https://static1.squarespace.com/static/555bc90ae4b0a502cd60bf2c/t/55979188e4b059fd6c632720/1445703706674/?format=1000w"></article>]]></description>
+            <link>http://brainfu.cc/ma-thesis-1/</link>
+            <guid isPermaLink="false">43e3f825-ad02-4d4a-ad2d-4d6135067a6b</guid>
+            <pubDate>Wed, 28 Oct 2015 14:40:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
